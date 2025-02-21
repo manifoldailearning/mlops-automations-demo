@@ -1,4 +1,4 @@
-name: ML Pipeline
+name: ML Pipeline NK
 
 on:
   push:
