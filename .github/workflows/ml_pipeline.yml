@@ -1,4 +1,4 @@
-name: ML Pipeline
+gnana: ML Pipeline
 
 on:
   push:
